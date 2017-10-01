@@ -1,6 +1,6 @@
 # Header-Authentication Process for API Authentication
 
-Overview
+# Overview
 
 This document describes how a third-party will request for an Cofred  Services. All our APIs require users to be authenticated before they can access any of our resources.
 
@@ -50,5 +50,3 @@ terminal_id: YINCU
 access_token: dUp4dEtybVg0UmpmMEFT  // Base64 Encoded
 
 timestamp: 1505628722
-
-
