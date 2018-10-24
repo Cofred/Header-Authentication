@@ -36,7 +36,7 @@ Note: Timestamp should not old more than 5 Minutes.
 
 You can get your created App list visiting below url after logging to your Cofred website.
 
-https://cofred.com/secure/app/merchant/apps
+https://cofredpay.com/app/merchant/apps
 
 Sample Authentication Headers
 
