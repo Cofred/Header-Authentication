@@ -2,10 +2,10 @@
 
 # Overview
 
-This document describes how a third-party will request for an Cofred  Services. All our APIs require users to be authenticated before they can access any of our resources.
+This document describes how a third-party will request for an CofredPay  Services. All our APIs require users to be authenticated before they can access any of our resources.
 
 
- We authenticate every call to our resources using a combination of HTTP headers. These HTTP Headers must be sent for every call in other to access Cofred resources. Note that all data formats and response definitions are in conformance with the REST standard.
+ We authenticate every call to our resources using a combination of HTTP headers. These HTTP Headers must be sent for every call in other to access CofredPay resources. Note that all data formats and response definitions are in conformance with the REST standard.
 Authentication
 
  In order to do authentication, you will be required to send the following HTTP headers parameters: Merchant ID, Secret Code, Terminal ID, Access Token and Timestamp. Also, you will be required to send an Authorization HTTP header parameter.
@@ -34,7 +34,7 @@ Note: Timestamp should not old more than 5 Minutes.
 
 6	Content-Type	Pre-Defined	The MIME type of the body of the request e.g. application/json
 
-You can get your created App list visiting below url after logging to your Cofred website.
+You can get your created App list visiting below url after logging to your CofredPay website.
 
 https://cofredpay.com/app/merchant/apps
 
